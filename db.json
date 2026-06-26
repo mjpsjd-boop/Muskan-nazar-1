@@ -15,11 +15,35 @@
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Heritage Red", "Deep Crimson", "Royal Maroon"],
-      "fabrics": ["Raw Silk", "Silk Velvet", "Pure Organza Shimmer"],
-      "embroidery": ["Vintage Zardozi", "Dabka Threadwork", "Semiprecious Beads", "24k Gold Tilla"],
-      "occasions": ["Barat (Main Bridal)", "Reception", "Nikkah"],
-      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": [
+        "Heritage Red",
+        "Deep Crimson",
+        "Royal Maroon"
+      ],
+      "fabrics": [
+        "Raw Silk",
+        "Silk Velvet",
+        "Pure Organza Shimmer"
+      ],
+      "embroidery": [
+        "Vintage Zardozi",
+        "Dabka Threadwork",
+        "Semiprecious Beads",
+        "24k Gold Tilla"
+      ],
+      "occasions": [
+        "Barat (Main Bridal)",
+        "Reception",
+        "Nikkah"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "8-12 Weeks (Express Worldwide)",
       "fabricDetails": "Ethically sourced pure mulberry silk (100gsm) combined with hand-pleated silk organza overlays. Interlined with breathable lightweight cotton-malmal.",
@@ -40,11 +64,32 @@
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Champagne Gold", "Blush Pink", "Mint Mint"],
-      "fabrics": ["Crushed Organza", "Tissue", "Butter Silk Inner"],
-      "embroidery": ["Tilla Threadwork", "Traditional Gota-Patti", "Handcrafted Mirrors"],
-      "occasions": ["Shendi", "Sangeet", "Festive Celebrations"],
-      "sizes": ["S", "M", "L", "Custom"],
+      "colors": [
+        "Champagne Gold",
+        "Blush Pink",
+        "Mint Mint"
+      ],
+      "fabrics": [
+        "Crushed Organza",
+        "Tissue",
+        "Butter Silk Inner"
+      ],
+      "embroidery": [
+        "Tilla Threadwork",
+        "Traditional Gota-Patti",
+        "Handcrafted Mirrors"
+      ],
+      "occasions": [
+        "Shendi",
+        "Sangeet",
+        "Festive Celebrations"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "4-6 Weeks",
       "fabricDetails": "Ultra-fine Italian organza mesh coupled with high-luster metallic tissue border fabrics.",
@@ -65,11 +110,33 @@
         "https://images.unsplash.com/photo-1518049360907-72d546411af8?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1608748010899-18f300247112?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Slate Blue", "Silver Frost", "Midnight Black"],
-      "fabrics": ["Metallic Tissue", "Soft Tulle", "Heavy Satin Lining"],
-      "embroidery": ["Silver Threadwork", "Swarovski Crystals", "Japanese Cutglass Beads"],
-      "occasions": ["Valima (Reception)", "Gala Dinner", "Engagement"],
-      "sizes": ["XS", "S", "M", "L", "Custom"],
+      "colors": [
+        "Slate Blue",
+        "Silver Frost",
+        "Midnight Black"
+      ],
+      "fabrics": [
+        "Metallic Tissue",
+        "Soft Tulle",
+        "Heavy Satin Lining"
+      ],
+      "embroidery": [
+        "Silver Threadwork",
+        "Swarovski Crystals",
+        "Japanese Cutglass Beads"
+      ],
+      "occasions": [
+        "Valima (Reception)",
+        "Gala Dinner",
+        "Engagement"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "6-8 Weeks",
       "fabricDetails": "Japanese metallic crimp lurex-tissue that responds dynamically to soft ambient lighting.",
@@ -90,11 +157,31 @@
         "https://images.unsplash.com/photo-1608748010899-18f300247112?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1518049360907-72d546411af8?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Ivory White", "Onyx Black", "Teal Breeze"],
-      "fabrics": ["Raw Silk", "Stretch Silk Trouser"],
-      "embroidery": ["Freshwater Pearl Inlay", "Delicate Hand-sewn Beads"],
-      "occasions": ["High-Tea", "Intimate Soirees", "EID"],
-      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": [
+        "Ivory White",
+        "Onyx Black",
+        "Teal Breeze"
+      ],
+      "fabrics": [
+        "Raw Silk",
+        "Stretch Silk Trouser"
+      ],
+      "embroidery": [
+        "Freshwater Pearl Inlay",
+        "Delicate Hand-sewn Beads"
+      ],
+      "occasions": [
+        "High-Tea",
+        "Intimate Soirees",
+        "EID"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "inStock": true,
       "estimatedDelivery": "7-10 Business Days",
       "fabricDetails": "100% premium GSM Korean raw silk offering beautiful structured silhouettes.",
@@ -114,11 +201,28 @@
       "gallery": [
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Champagne Gold", "Antique Rose", "Platinum Shimmer"],
-      "fabrics": ["Metallic Netting", "Pure Silk Linings", "Sheer Tissue Veil"],
-      "embroidery": ["French Sequins", "Micro Pearls", "Antique Dabka"],
-      "occasions": ["Grand Barat", "Wedding Reception"],
-      "sizes": ["Custom Only"],
+      "colors": [
+        "Champagne Gold",
+        "Antique Rose",
+        "Platinum Shimmer"
+      ],
+      "fabrics": [
+        "Metallic Netting",
+        "Pure Silk Linings",
+        "Sheer Tissue Veil"
+      ],
+      "embroidery": [
+        "French Sequins",
+        "Micro Pearls",
+        "Antique Dabka"
+      ],
+      "occasions": [
+        "Grand Barat",
+        "Wedding Reception"
+      ],
+      "sizes": [
+        "Custom Only"
+      ],
       "inStock": true,
       "estimatedDelivery": "10-14 Weeks",
       "fabricDetails": "Double lined silk charmeuse base, layered with high-durability fine hexagonal gold net.",
@@ -139,11 +243,35 @@
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Emerald Green", "Royal Malachite", "Deep Forest"],
-      "fabrics": ["Pure Raw Silk", "Silk Tissue", "Pure Chiffon Dupatta"],
-      "embroidery": ["Antique Tilla", "Dabka Clusters", "Emerald Beads", "Fine Zardozi"],
-      "occasions": ["Sangeet", "Mehndi", "Receptions"],
-      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": [
+        "Emerald Green",
+        "Royal Malachite",
+        "Deep Forest"
+      ],
+      "fabrics": [
+        "Pure Raw Silk",
+        "Silk Tissue",
+        "Pure Chiffon Dupatta"
+      ],
+      "embroidery": [
+        "Antique Tilla",
+        "Dabka Clusters",
+        "Emerald Beads",
+        "Fine Zardozi"
+      ],
+      "occasions": [
+        "Sangeet",
+        "Mehndi",
+        "Receptions"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "5-7 Weeks",
       "fabricDetails": "100% fine handloomed raw silk with sheer double-layered silk tissue panels that present a rich shimmer effect under light.",
@@ -164,11 +292,33 @@
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Rust Orange & Crimson", "Maroon & Gold", "Emerald & Ivory"],
-      "fabrics": ["Banarasi Brocade", "Plush Silk Velvet", "Pure Chiffon"],
-      "embroidery": ["Gold & Silver Tilla", "Handcrafted Gotta", "Nakshi and Pearl Inlay"],
-      "occasions": ["Barat", "Nikkah", "Traditional Intimate Weddings"],
-      "sizes": ["XS", "S", "M", "L", "Custom"],
+      "colors": [
+        "Rust Orange & Crimson",
+        "Maroon & Gold",
+        "Emerald & Ivory"
+      ],
+      "fabrics": [
+        "Banarasi Brocade",
+        "Plush Silk Velvet",
+        "Pure Chiffon"
+      ],
+      "embroidery": [
+        "Gold & Silver Tilla",
+        "Handcrafted Gotta",
+        "Nakshi and Pearl Inlay"
+      ],
+      "occasions": [
+        "Barat",
+        "Nikkah",
+        "Traditional Intimate Weddings"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "10-12 Weeks",
       "fabricDetails": "Crafted with heirloom-grade hand-woven Banarasi brocade containing pure zari threads, paired with rich plush micro-velvet borders.",
@@ -188,11 +338,32 @@
       "gallery": [
         "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Royal Blue", "Deep Indigo", "Imperial Purple"],
-      "fabrics": ["Plush Silk Velvet", "Shimmering Tissue borders", "Organza Dupatta"],
-      "embroidery": ["Silver Kora-Dabka", "Delicate Micro Pearls", "Tilla Wirework"],
-      "occasions": ["Reception", "Qawwali Night", "EID Gala"],
-      "sizes": ["S", "M", "L", "Custom"],
+      "colors": [
+        "Royal Blue",
+        "Deep Indigo",
+        "Imperial Purple"
+      ],
+      "fabrics": [
+        "Plush Silk Velvet",
+        "Shimmering Tissue borders",
+        "Organza Dupatta"
+      ],
+      "embroidery": [
+        "Silver Kora-Dabka",
+        "Delicate Micro Pearls",
+        "Tilla Wirework"
+      ],
+      "occasions": [
+        "Reception",
+        "Qawwali Night",
+        "EID Gala"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "6-8 Weeks",
       "fabricDetails": "Lustrous heavy-density micro-velvet base with a supreme luxurious drapes.",
@@ -212,11 +383,34 @@
       "gallery": [
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Heritage Crimson", "Gold Mustard", "Rose Dust"],
-      "fabrics": ["Pure Banarasi Silk", "Tissue Organza", "Satin Silk Lining"],
-      "embroidery": ["Fine Zardozi", "Gota Patti", "Lustrous Sequin Trails"],
-      "occasions": ["Mehndi", "Sangeet", "Diwali Gala"],
-      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": [
+        "Heritage Crimson",
+        "Gold Mustard",
+        "Rose Dust"
+      ],
+      "fabrics": [
+        "Pure Banarasi Silk",
+        "Tissue Organza",
+        "Satin Silk Lining"
+      ],
+      "embroidery": [
+        "Fine Zardozi",
+        "Gota Patti",
+        "Lustrous Sequin Trails"
+      ],
+      "occasions": [
+        "Mehndi",
+        "Sangeet",
+        "Diwali Gala"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "4-5 Weeks",
       "fabricDetails": "100% fine handloomed Banarasi silk featuring dynamic gold-threaded flora and fauna patterns across the fabric.",
@@ -237,11 +431,29 @@
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
         "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Royal Burgundy", "Imperial Emerald", "Classic Obsidian"],
-      "fabrics": ["Plush Micro-Velvet", "Pure Raw Silk Blouse", "Shimmering Satin Pleats"],
-      "embroidery": ["Scalloped Gold Tilla", "Antique Dabka Work", "Micro Pearl Clusters"],
-      "occasions": ["Grand Reception", "Cocktail Gala", "Bridal trousseau"],
-      "sizes": ["Custom Fitted Only"],
+      "colors": [
+        "Royal Burgundy",
+        "Imperial Emerald",
+        "Classic Obsidian"
+      ],
+      "fabrics": [
+        "Plush Micro-Velvet",
+        "Pure Raw Silk Blouse",
+        "Shimmering Satin Pleats"
+      ],
+      "embroidery": [
+        "Scalloped Gold Tilla",
+        "Antique Dabka Work",
+        "Micro Pearl Clusters"
+      ],
+      "occasions": [
+        "Grand Reception",
+        "Cocktail Gala",
+        "Bridal trousseau"
+      ],
+      "sizes": [
+        "Custom Fitted Only"
+      ],
       "inStock": true,
       "estimatedDelivery": "6-8 Weeks",
       "fabricDetails": "Plush 9000-grade micro-velvet for unparalleled sheen, coupled with fluid pure silk satin for the pleats.",
@@ -261,11 +473,31 @@
       "gallery": [
         "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Deep Plum", "Navy Sapphire", "Classic Emerald"],
-      "fabrics": ["Pure Silk Velvet", "Shimmering Tissue"],
-      "embroidery": ["Kashmiri Tilla", "Gota Patti Borders"],
-      "occasions": ["Eid-ul-Fitr", "Intimate Dinners", "Festive Soiree"],
-      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": [
+        "Deep Plum",
+        "Navy Sapphire",
+        "Classic Emerald"
+      ],
+      "fabrics": [
+        "Pure Silk Velvet",
+        "Shimmering Tissue"
+      ],
+      "embroidery": [
+        "Kashmiri Tilla",
+        "Gota Patti Borders"
+      ],
+      "occasions": [
+        "Eid-ul-Fitr",
+        "Intimate Dinners",
+        "Festive Soiree"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "inStock": true,
       "estimatedDelivery": "5-7 Business Days",
       "fabricDetails": "100% fine silk-woven velvet with a highly fluid drapes, paired with soft silk inner linings.",
@@ -285,11 +517,29 @@
       "gallery": [
         "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Vermillion Red", "Royal Crimson", "Garnet Maroon"],
-      "fabrics": ["Pure Raw Silk", "Premium Silk Velvet", "Ethereal Silk Net"],
-      "embroidery": ["Traditional Zardozi", "Dabka Clusters", "Swarovski Elements", "Kora wire work"],
-      "occasions": ["Grand Barat", "Main Wedding Ceremony"],
-      "sizes": ["Custom Only"],
+      "colors": [
+        "Vermillion Red",
+        "Royal Crimson",
+        "Garnet Maroon"
+      ],
+      "fabrics": [
+        "Pure Raw Silk",
+        "Premium Silk Velvet",
+        "Ethereal Silk Net"
+      ],
+      "embroidery": [
+        "Traditional Zardozi",
+        "Dabka Clusters",
+        "Swarovski Elements",
+        "Kora wire work"
+      ],
+      "occasions": [
+        "Grand Barat",
+        "Main Wedding Ceremony"
+      ],
+      "sizes": [
+        "Custom Only"
+      ],
       "inStock": true,
       "estimatedDelivery": "12-16 Weeks",
       "fabricDetails": "High-weight customized raw silk paired with double crinoline layers and heavy silk satin lining for majestic volume.",
@@ -309,16 +559,162 @@
       "gallery": [
         "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
       ],
-      "colors": ["Ice Blue", "Lavender Mist", "Ethereal Mint"],
-      "fabrics": ["Ethereal Organza", "Lustrous Silk Satin", "Tissue border"],
-      "embroidery": ["Silver Zari Thread", "Swarovski Crystals", "Micro-Sequins"],
-      "occasions": ["Walima Reception", "Engagement Party", "Festive Gala"],
-      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "colors": [
+        "Ice Blue",
+        "Lavender Mist",
+        "Ethereal Mint"
+      ],
+      "fabrics": [
+        "Ethereal Organza",
+        "Lustrous Silk Satin",
+        "Tissue border"
+      ],
+      "embroidery": [
+        "Silver Zari Thread",
+        "Swarovski Crystals",
+        "Micro-Sequins"
+      ],
+      "occasions": [
+        "Walima Reception",
+        "Engagement Party",
+        "Festive Gala"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
       "inStock": true,
       "estimatedDelivery": "4-6 Weeks",
       "fabricDetails": "Crisp, glass-like Italian organza bodice coupled with soft, cascading silk net panel drops.",
       "embroideryDetails": "Hand-beaded with fine silver beads, Swarovski elements, and detailed with miniature silver kora stars.",
       "careInstructions": "Iron only under protective sheet. Store in flat hanger box. Specialist dry clean."
+    },
+    {
+      "id": "prod-zoya",
+      "name": "The Zoya Silk Saree",
+      "category": "Ready-to-Wear",
+      "price": 85000,
+      "originalPrice": 95000,
+      "rating": 4.8,
+      "reviewsCount": 14,
+      "description": "A stunning midnight blue pure silk saree with delicate silver zari work along the borders. Perfect for evening events and formal gatherings.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": [
+        "Midnight Blue",
+        "Sapphire",
+        "Onyx"
+      ],
+      "fabrics": [
+        "Pure Silk",
+        "Silver Zari"
+      ],
+      "embroidery": [
+        "Silver Zari Threadwork"
+      ],
+      "occasions": [
+        "Evening Gala",
+        "Formal Dinner",
+        "Reception"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "estimatedDelivery": "3-5 Business Days",
+      "fabricDetails": "100% pure mulberry silk with a lustrous finish and excellent drape.",
+      "embroideryDetails": "Handwoven silver zari borders featuring traditional paisley motifs.",
+      "careInstructions": "Dry clean only. Store wrapped in a soft cotton cloth."
+    },
+    {
+      "id": "prod-anaya",
+      "name": "The Anaya Chiffon Gown",
+      "category": "Luxury Formals",
+      "price": 150000,
+      "originalPrice": 175000,
+      "rating": 4.7,
+      "reviewsCount": 28,
+      "description": "An ethereal blush pink chiffon gown featuring intricate floral embroidery with pearls and sequins. A modern silhouette with traditional craftsmanship.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": [
+        "Blush Pink",
+        "Rose Water",
+        "Peach"
+      ],
+      "fabrics": [
+        "Pure Chiffon",
+        "Silk Satin Lining"
+      ],
+      "embroidery": [
+        "Pearl Embellishments",
+        "Sequin Work",
+        "Silk Thread Embroidery"
+      ],
+      "occasions": [
+        "Engagement",
+        "Bridesmaid",
+        "Summer Wedding"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
+      "inStock": true,
+      "estimatedDelivery": "4-6 Weeks",
+      "fabricDetails": "Lightweight, sheer pure chiffon over a rich silk satin lining for comfort and opacity.",
+      "embroideryDetails": "Delicate floral patterns hand-embroidered using silk threads, accented with freshwater pearls and subtle sequins.",
+      "careInstructions": "Professional dry clean only. Handle with care to avoid snagging the delicate embroidery."
+    },
+    {
+      "id": "prod-zara",
+      "name": "The Zara Velvet Kaftan",
+      "category": "Ready-to-Wear",
+      "price": 75000,
+      "originalPrice": 85000,
+      "rating": 4.9,
+      "reviewsCount": 19,
+      "description": "A luxurious emerald green velvet kaftan adorned with antique gold tilla work around the neckline and cuffs. Effortlessly chic and comfortable.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": [
+        "Emerald Green",
+        "Ruby Red",
+        "Deep Black"
+      ],
+      "fabrics": [
+        "Premium Velvet"
+      ],
+      "embroidery": [
+        "Antique Gold Tilla"
+      ],
+      "occasions": [
+        "Winter Festivities",
+        "Intimate Gatherings",
+        "Dinner Parties"
+      ],
+      "sizes": [
+        "S/M",
+        "L/XL"
+      ],
+      "inStock": true,
+      "estimatedDelivery": "5-7 Business Days",
+      "fabricDetails": "Plush, high-quality velvet that provides warmth and a rich, regal appearance.",
+      "embroideryDetails": "Intricate tilla embroidery in antique gold tones, concentrated around the V-neckline and wide cuffs.",
+      "careInstructions": "Dry clean only. Steam gently from the inside; do not iron directly on the velvet pile."
     }
   ],
   "users": [
@@ -360,7 +756,9 @@
         "sleeveLength": "22",
         "dressLength": "58"
       },
-      "wishlist": ["prod-shahzadi"],
+      "wishlist": [
+        "prod-shahzadi"
+      ],
       "isDisabled": false
     }
   ],
@@ -419,7 +817,7 @@
       "embroideryStyle": "Antique Gold Zardozi and Swarovski Crystals",
       "eventType": "High-End Royal Wedding",
       "additionalNotes": "I would love a slightly longer veil trail (around 3 meters) with heavy scalloped borders matching the lehenga cuffs.",
-      "budget": "₹7,00000 - ₹12,00000",
+      "budget": "\u20b97,00000 - \u20b912,00000",
       "status": "Approved",
       "createdAt": "2026-06-20T10:14:00.000Z"
     }
