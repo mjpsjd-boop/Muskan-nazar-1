@@ -1,0 +1,478 @@
+{
+  "products": [
+    {
+      "id": "prod-shahzadi",
+      "name": "The Shahzadi Heirloom Bridal",
+      "category": "Bridals",
+      "price": 550000,
+      "originalPrice": 620000,
+      "rating": 5.0,
+      "reviewsCount": 18,
+      "description": "An extraordinary red bridal masterpiece. Hand-crafted in vintage crimson velvet and pure raw silk, with gold zardozi embroidery and delicate pearls. Handcrafted over 400 artisan hours.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Heritage Red", "Deep Crimson", "Royal Maroon"],
+      "fabrics": ["Raw Silk", "Silk Velvet", "Pure Organza Shimmer"],
+      "embroidery": ["Vintage Zardozi", "Dabka Threadwork", "Semiprecious Beads", "24k Gold Tilla"],
+      "occasions": ["Barat (Main Bridal)", "Reception", "Nikkah"],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "8-12 Weeks (Express Worldwide)",
+      "fabricDetails": "Ethically sourced pure mulberry silk (100gsm) combined with hand-pleated silk organza overlays. Interlined with breathable lightweight cotton-malmal.",
+      "embroideryDetails": "100% hand-embellished using metallic copper-wrapped gold wires (Zardozi), glass micro-beads, natural seed pearls, and genuine dabka spirals by heritage master craftsmen.",
+      "careInstructions": "Dry clean only at premium luxury textile specialists. Store in a breathable, acid-free Muskan Nazar garment bag away from light, moisture, and extreme temperatures."
+    },
+    {
+      "id": "prod-dilruba",
+      "name": "The Dilruba Mughal Peshwas",
+      "category": "Luxury Formals",
+      "price": 240000,
+      "originalPrice": 275000,
+      "rating": 4.9,
+      "reviewsCount": 24,
+      "description": "A breathtaking champagne gold Peshwas gown. Elegant panels of sheer crushed organza falling into a massive 12-meter flare, finished with intricate tilla embroidery, gota laces, and delicate mirrors.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Champagne Gold", "Blush Pink", "Mint Mint"],
+      "fabrics": ["Crushed Organza", "Tissue", "Butter Silk Inner"],
+      "embroidery": ["Tilla Threadwork", "Traditional Gota-Patti", "Handcrafted Mirrors"],
+      "occasions": ["Shendi", "Sangeet", "Festive Celebrations"],
+      "sizes": ["S", "M", "L", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "4-6 Weeks",
+      "fabricDetails": "Ultra-fine Italian organza mesh coupled with high-luster metallic tissue border fabrics.",
+      "embroideryDetails": "Gota-patti appliques hand-burnished and stitched alongside delicate tilla wire outlines and micro-mirror frames.",
+      "careInstructions": "Avoid direct perfumes on mirror surfaces. Specialist dry clean only."
+    },
+    {
+      "id": "prod-noorulain",
+      "name": "The Noor-ul-Ain Reception Gown",
+      "category": "Bespoke Couture",
+      "price": 360000,
+      "originalPrice": 400000,
+      "rating": 5.0,
+      "reviewsCount": 14,
+      "description": "An ethereal slate blue reception ensemble showcasing hand-crimped metallic tissue fabric, heavily detailed bodice corsetry, and mesmerizing silver mirror-work flowing gracefully.",
+      "image": "https://images.unsplash.com/photo-1518049360907-72d546411af8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1518049360907-72d546411af8?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1608748010899-18f300247112?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Slate Blue", "Silver Frost", "Midnight Black"],
+      "fabrics": ["Metallic Tissue", "Soft Tulle", "Heavy Satin Lining"],
+      "embroidery": ["Silver Threadwork", "Swarovski Crystals", "Japanese Cutglass Beads"],
+      "occasions": ["Valima (Reception)", "Gala Dinner", "Engagement"],
+      "sizes": ["XS", "S", "M", "L", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "6-8 Weeks",
+      "fabricDetails": "Japanese metallic crimp lurex-tissue that responds dynamically to soft ambient lighting.",
+      "embroideryDetails": "Inlaid Swarovski crystals, hand-sewn cutglass tubes, and delicate silver bugle-beads.",
+      "careInstructions": "Dry clean and iron with cool steam under protective cloth overlay."
+    },
+    {
+      "id": "prod-jasmine",
+      "name": "The Jasmine Pearl Peplum Set",
+      "category": "Ready-to-Wear",
+      "price": 95000,
+      "originalPrice": 110000,
+      "rating": 4.8,
+      "reviewsCount": 31,
+      "description": "An elegant ivory raw-silk structured peplum set adorned with modern hand-placed pearls along the elegant high-collar, paired beautifully with flared silk culottes.",
+      "image": "https://images.unsplash.com/photo-1608748010899-18f300247112?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1608748010899-18f300247112?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1518049360907-72d546411af8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Ivory White", "Onyx Black", "Teal Breeze"],
+      "fabrics": ["Raw Silk", "Stretch Silk Trouser"],
+      "embroidery": ["Freshwater Pearl Inlay", "Delicate Hand-sewn Beads"],
+      "occasions": ["High-Tea", "Intimate Soirees", "EID"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inStock": true,
+      "estimatedDelivery": "7-10 Business Days",
+      "fabricDetails": "100% premium GSM Korean raw silk offering beautiful structured silhouettes.",
+      "embroideryDetails": "Premium polished mother-of-pearl beads and hand-selected natural seed pearls.",
+      "careInstructions": "Hand-wash gently or dry clean. Cool iron inside out."
+    },
+    {
+      "id": "prod-shehnai",
+      "name": "The Shehnai Champagne Lehenga",
+      "category": "Bridals",
+      "price": 720000,
+      "originalPrice": 800000,
+      "rating": 5.0,
+      "reviewsCount": 9,
+      "description": "The ultimate modern bridal luxury. Breathtaking champagne gold hue styled with intricate French sequins, pearls, and handwoven dabka spirals for a truly unforgettable walking work of art.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Champagne Gold", "Antique Rose", "Platinum Shimmer"],
+      "fabrics": ["Metallic Netting", "Pure Silk Linings", "Sheer Tissue Veil"],
+      "embroidery": ["French Sequins", "Micro Pearls", "Antique Dabka"],
+      "occasions": ["Grand Barat", "Wedding Reception"],
+      "sizes": ["Custom Only"],
+      "inStock": true,
+      "estimatedDelivery": "10-14 Weeks",
+      "fabricDetails": "Double lined silk charmeuse base, layered with high-durability fine hexagonal gold net.",
+      "embroideryDetails": "Hand-stitched micro-sequins laid in classic floral trails, combined with thousands of premium micro pearls.",
+      "careInstructions": "Keep suspended on padded velvet hangers. Do not fold tightly."
+    },
+    {
+      "id": "prod-mumtaz",
+      "name": "The Mumtaz Emerald Angrakha",
+      "category": "Luxury Formals",
+      "price": 280000,
+      "originalPrice": 315000,
+      "rating": 5.0,
+      "reviewsCount": 12,
+      "description": "An absolute royal masterpiece. Crafted in premium emerald green raw silk with stunning antique tilla threadwork, handwoven dabka clusters, and semi-precious emerald bead droppings on a double-layered angrakha silhouette.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Emerald Green", "Royal Malachite", "Deep Forest"],
+      "fabrics": ["Pure Raw Silk", "Silk Tissue", "Pure Chiffon Dupatta"],
+      "embroidery": ["Antique Tilla", "Dabka Clusters", "Emerald Beads", "Fine Zardozi"],
+      "occasions": ["Sangeet", "Mehndi", "Receptions"],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "5-7 Weeks",
+      "fabricDetails": "100% fine handloomed raw silk with sheer double-layered silk tissue panels that present a rich shimmer effect under light.",
+      "embroideryDetails": "Hand-embroidered over 280 artisan hours using ancient Lucknow wire embroidery and hand-sewn jade/emerald stone beads.",
+      "careInstructions": "Dry clean only. Store wrapped in soft muslin fabric to preserve the delicate metal threads."
+    },
+    {
+      "id": "prod-noorjahan",
+      "name": "The Noor-Jahan Heritage Gharara",
+      "category": "Bridals",
+      "price": 680000,
+      "originalPrice": 750000,
+      "rating": 4.9,
+      "reviewsCount": 15,
+      "description": "A timeless bridal gharara set reminiscent of the Royal Courts. Tailored in pure handwoven banarasi brocade and lustrous velvet, heavily embellished with real gold and silver tilla, nakshi, and handcrafted gotta borders.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Rust Orange & Crimson", "Maroon & Gold", "Emerald & Ivory"],
+      "fabrics": ["Banarasi Brocade", "Plush Silk Velvet", "Pure Chiffon"],
+      "embroidery": ["Gold & Silver Tilla", "Handcrafted Gotta", "Nakshi and Pearl Inlay"],
+      "occasions": ["Barat", "Nikkah", "Traditional Intimate Weddings"],
+      "sizes": ["XS", "S", "M", "L", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "10-12 Weeks",
+      "fabricDetails": "Crafted with heirloom-grade hand-woven Banarasi brocade containing pure zari threads, paired with rich plush micro-velvet borders.",
+      "embroideryDetails": "Hand-embroidered by fourth-generation artisans in old Delhi utilizing genuine metallic wire embellishments and silver nakshi ribbons.",
+      "careInstructions": "Always keep in Muskan Nazar storage bags. Professional dry clean only. Keep away from direct moisture."
+    },
+    {
+      "id": "prod-daryainoor",
+      "name": "The Darya-i-Noor Velvet Pishwas",
+      "category": "Bespoke Couture",
+      "price": 410000,
+      "originalPrice": 450000,
+      "rating": 5.0,
+      "reviewsCount": 8,
+      "description": "A classic silhouette of unparalleled opulence. Features rich royal blue silk-velvet with shimmering silver kora-dabka work, micro pearls, and handwoven metallic threads across the flared bodice and borders.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Royal Blue", "Deep Indigo", "Imperial Purple"],
+      "fabrics": ["Plush Silk Velvet", "Shimmering Tissue borders", "Organza Dupatta"],
+      "embroidery": ["Silver Kora-Dabka", "Delicate Micro Pearls", "Tilla Wirework"],
+      "occasions": ["Reception", "Qawwali Night", "EID Gala"],
+      "sizes": ["S", "M", "L", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "6-8 Weeks",
+      "fabricDetails": "Lustrous heavy-density micro-velvet base with a supreme luxurious drapes.",
+      "embroideryDetails": "Stitched entirely by hand with fine copper and silver wire coiled embroidery, detailed floral motifs, and pearls.",
+      "careInstructions": "Never iron directly on velvet pile. Light steam from underside only. Specialist dry clean."
+    },
+    {
+      "id": "prod-meera",
+      "name": "The Meera Banarasi Anarkali",
+      "category": "Luxury Formals",
+      "price": 185000,
+      "originalPrice": 210000,
+      "rating": 4.9,
+      "reviewsCount": 16,
+      "description": "An exquisite floor-length Banarasi silk Anarkali in beautiful deep gold and crimson, accented with premium handwoven zardozi necklines, statement gota borders, and a matching sheer silk dupatta.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Heritage Crimson", "Gold Mustard", "Rose Dust"],
+      "fabrics": ["Pure Banarasi Silk", "Tissue Organza", "Satin Silk Lining"],
+      "embroidery": ["Fine Zardozi", "Gota Patti", "Lustrous Sequin Trails"],
+      "occasions": ["Mehndi", "Sangeet", "Diwali Gala"],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "4-5 Weeks",
+      "fabricDetails": "100% fine handloomed Banarasi silk featuring dynamic gold-threaded flora and fauna patterns across the fabric.",
+      "embroideryDetails": "Stitched with refined copper wires, premium sequins, and meticulously cut glass tubes for premium light play.",
+      "careInstructions": "Store in dry spaces wrap-folded in muslin cloth. Do not apply perfume directly onto the gold threads."
+    },
+    {
+      "id": "prod-maharani",
+      "name": "The Maharani Velvet Saree",
+      "category": "Bespoke Couture",
+      "price": 295000,
+      "originalPrice": 330000,
+      "rating": 5.0,
+      "reviewsCount": 10,
+      "description": "A breathtaking heritage masterpiece. Styled with an exquisite royal burgundy micro-velvet pallu, intricate gold tilla scallops on the borders, paired with a fully embellished hand-embroidered raw silk blouse.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Royal Burgundy", "Imperial Emerald", "Classic Obsidian"],
+      "fabrics": ["Plush Micro-Velvet", "Pure Raw Silk Blouse", "Shimmering Satin Pleats"],
+      "embroidery": ["Scalloped Gold Tilla", "Antique Dabka Work", "Micro Pearl Clusters"],
+      "occasions": ["Grand Reception", "Cocktail Gala", "Bridal trousseau"],
+      "sizes": ["Custom Fitted Only"],
+      "inStock": true,
+      "estimatedDelivery": "6-8 Weeks",
+      "fabricDetails": "Plush 9000-grade micro-velvet for unparalleled sheen, coupled with fluid pure silk satin for the pleats.",
+      "embroideryDetails": "Hand-scalloped borders detailed with antique gold tilla coils, gold bullion loops, and delicate pearls.",
+      "careInstructions": "Keep rolled or suspended. Steam with extreme care from distance. Professional dry clean only."
+    },
+    {
+      "id": "prod-nilofer",
+      "name": "The Nilofer Velvet Kurta Set",
+      "category": "Ready-to-Wear",
+      "price": 65000,
+      "originalPrice": 75000,
+      "rating": 4.9,
+      "reviewsCount": 22,
+      "description": "An ultra-luxurious plum silk-velvet short kurta hand-embroidered with classic Kashmiri tilla needlework along the sleeves and neckline, accompanied by straight tissue trousers.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Deep Plum", "Navy Sapphire", "Classic Emerald"],
+      "fabrics": ["Pure Silk Velvet", "Shimmering Tissue"],
+      "embroidery": ["Kashmiri Tilla", "Gota Patti Borders"],
+      "occasions": ["Eid-ul-Fitr", "Intimate Dinners", "Festive Soiree"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inStock": true,
+      "estimatedDelivery": "5-7 Business Days",
+      "fabricDetails": "100% fine silk-woven velvet with a highly fluid drapes, paired with soft silk inner linings.",
+      "embroideryDetails": "Stitched over 48 artisan hours using metallic gold tilla wires and miniature bead-clusters.",
+      "careInstructions": "Do not fold tightly or iron. Hand steam with caution. Dry clean only."
+    },
+    {
+      "id": "prod-nurjehan-lehenga",
+      "name": "The Nur Jahan Crimson Lehenga",
+      "category": "Bridals",
+      "price": 820000,
+      "originalPrice": 900000,
+      "rating": 5.0,
+      "reviewsCount": 7,
+      "description": "The ultimate bridal crown jewel. A heavily flared lehenga tailored in pure vermillion raw silk and velvet, displaying majestic Mughal panels of gold zardozi, hand-cut glass stones, and tilla threadwork.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Vermillion Red", "Royal Crimson", "Garnet Maroon"],
+      "fabrics": ["Pure Raw Silk", "Premium Silk Velvet", "Ethereal Silk Net"],
+      "embroidery": ["Traditional Zardozi", "Dabka Clusters", "Swarovski Elements", "Kora wire work"],
+      "occasions": ["Grand Barat", "Main Wedding Ceremony"],
+      "sizes": ["Custom Only"],
+      "inStock": true,
+      "estimatedDelivery": "12-16 Weeks",
+      "fabricDetails": "High-weight customized raw silk paired with double crinoline layers and heavy silk satin lining for majestic volume.",
+      "embroideryDetails": "Artisanally crafted over 450 hours by 6 dedicated heritage craftsmen with antique wire work, dabka loops, and hand-cut stones.",
+      "careInstructions": "Keep in cedar boxes wrapped in muslin. Professional bridal dry clean only."
+    },
+    {
+      "id": "prod-shabnam",
+      "name": "The Shabnam Silver Peshwas",
+      "category": "Luxury Formals",
+      "price": 215000,
+      "originalPrice": 245000,
+      "rating": 4.9,
+      "reviewsCount": 11,
+      "description": "An ethereal ice-blue and silver Peshwas dress made of raw silk and hand-pleated silk organza. Accentuated by a beautiful heavy hand-woven silver zari border, hand-placed crystals, and a raw silk pajama.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "colors": ["Ice Blue", "Lavender Mist", "Ethereal Mint"],
+      "fabrics": ["Ethereal Organza", "Lustrous Silk Satin", "Tissue border"],
+      "embroidery": ["Silver Zari Thread", "Swarovski Crystals", "Micro-Sequins"],
+      "occasions": ["Walima Reception", "Engagement Party", "Festive Gala"],
+      "sizes": ["XS", "S", "M", "L", "XL", "Custom"],
+      "inStock": true,
+      "estimatedDelivery": "4-6 Weeks",
+      "fabricDetails": "Crisp, glass-like Italian organza bodice coupled with soft, cascading silk net panel drops.",
+      "embroideryDetails": "Hand-beaded with fine silver beads, Swarovski elements, and detailed with miniature silver kora stars.",
+      "careInstructions": "Iron only under protective sheet. Store in flat hanger box. Specialist dry clean."
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Atelier Administrator",
+      "email": "admin@muskannazar.com",
+      "password": "admin123",
+      "role": "admin",
+      "verified": true,
+      "addresses": [],
+      "measurements": {},
+      "wishlist": [],
+      "isDisabled": false
+    },
+    {
+      "id": "user-customer",
+      "name": "Princess Amina",
+      "email": "customer@royal.com",
+      "password": "customer123",
+      "role": "customer",
+      "verified": true,
+      "profilePicture": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=200",
+      "addresses": [
+        {
+          "street": "M G Road, Phase 2, Royal Tower",
+          "city": "Gurugram",
+          "state": "Haryana",
+          "zipCode": "122002",
+          "country": "India"
+        }
+      ],
+      "measurements": {
+        "height": "5ft 6in",
+        "bust": "34",
+        "waist": "27",
+        "hips": "38",
+        "shoulderWidth": "15",
+        "sleeveLength": "22",
+        "dressLength": "58"
+      },
+      "wishlist": ["prod-shahzadi"],
+      "isDisabled": false
+    }
+  ],
+  "orders": [
+    {
+      "id": "MN-98213",
+      "customerId": "user-customer",
+      "customerName": "Princess Amina",
+      "customerEmail": "customer@royal.com",
+      "items": [
+        {
+          "productId": "prod-jasmine",
+          "productName": "The Jasmine Pearl Peplum Set",
+          "price": 95000,
+          "quantity": 1,
+          "selectedColor": "Ivory White",
+          "selectedFabric": "Raw Silk",
+          "selectedSize": "M",
+          "isCustomized": false
+        }
+      ],
+      "totalAmount": 95000,
+      "gstAmount": 17100,
+      "currency": "INR",
+      "shippingAddress": {
+        "street": "M G Road, Phase 2, Royal Tower",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "zipCode": "122002",
+        "country": "India"
+      },
+      "paymentMethod": "Razorpay (UPI)",
+      "paymentStatus": "Paid",
+      "shippingStatus": "Delivered",
+      "createdAt": "2026-06-24T15:30:29.000Z",
+      "invoiceUrl": "/api/orders/MN-98213/invoice"
+    }
+  ],
+  "customRequests": [
+    {
+      "id": "bespoke-101",
+      "customerName": "Princess Amina",
+      "customerEmail": "customer@royal.com",
+      "customerPhone": "+91 98765 43210",
+      "measurements": {
+        "height": "5ft 6in",
+        "bust": "34",
+        "waist": "27",
+        "hips": "38",
+        "shoulderWidth": "15",
+        "sleeveLength": "22",
+        "dressLength": "58"
+      },
+      "fabric": "Raw Silk & Velvet",
+      "color": "Heritage Emerald Green",
+      "embroideryStyle": "Antique Gold Zardozi and Swarovski Crystals",
+      "eventType": "High-End Royal Wedding",
+      "additionalNotes": "I would love a slightly longer veil trail (around 3 meters) with heavy scalloped borders matching the lehenga cuffs.",
+      "budget": "₹7,00000 - ₹12,00000",
+      "status": "Approved",
+      "createdAt": "2026-06-20T10:14:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-shahzadi",
+      "customerName": "Fatima Al-Subaih",
+      "customerEmail": "customer@royal.com",
+      "customerId": "user-customer",
+      "rating": 5,
+      "comment": "The Shahzadi lehenga exceeded every single hope I had. The heavy gold zardozi wirework looks magnificent in photographs, and the custom fitting drafted by their master tailor sculpts the silhouette flawlessly. The worldwide DHL express was pristine.",
+      "date": "May 2026",
+      "verified": true,
+      "approved": true,
+      "featured": true,
+      "photoUrl": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=200"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "text": "New custom dress request received from Princess Amina.",
+      "type": "custom",
+      "unread": true,
+      "createdAt": "2026-06-20T10:14:00.000Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cp-1",
+      "code": "ROYALTY10",
+      "discountPercent": 10
+    },
+    {
+      "id": "cp-2",
+      "code": "FESTIVE15",
+      "discountPercent": 15
+    },
+    {
+      "id": "cp-3",
+      "code": "NOOR20",
+      "discountPercent": 20
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "The Gold Suture: Preserving 16th-Century Zardozi Embroidery",
+      "content": "Zardozi, the ancient art of gold wire embroidery, is more than a technique; it is a ritual. In our Lucknow atelier, master craftsmen sew hand-spun metallic coils and seed pearls onto raw silks. Read about our efforts to preserve these generational looms...",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "date": "June 15, 2026"
+    }
+  ]
+}
